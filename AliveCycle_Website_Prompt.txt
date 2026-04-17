@@ -1,0 +1,315 @@
+================================================================================
+                     ALIVECYCLE WEBSITE — FULL BUILD PROMPT
+================================================================================
+
+PROJECT OVERVIEW
+----------------
+Build a single-page marketing website for AliveCycle — a decentralized
+environmental infrastructure service that converts greywater and biodegradable
+waste into reusable water and nutrients through locally deployed, closed-loop
+systems. The site's goal is to educate potential customers (municipalities,
+institutions, residential societies, government bodies) about the problem and
+AliveCycle's solution, and to drive service inquiries.
+
+
+================================================================================
+AESTHETIC DIRECTION
+================================================================================
+
+Tone:
+  Organic-meets-technical. Not a generic "eco startup." Think: dark earth tones
+  with precise engineering diagrams. Like if a soil scientist and an industrial
+  designer built a brand together.
+
+Color Palette:
+  - Background:         Deep forest green #0D2B1F or rich dark soil #1A1208
+  - Primary accent:     Warm bioluminescent green #7FD47A
+  - Secondary accent:   Amber/ochre #C8922A (biofuel, nutrients)
+  - Water accent:       Muted teal #4DB8B0
+  - Text:               Off-white #F5F0E8
+
+Typography:
+  - Headlines:  A distinctive slab or high-contrast serif
+                (e.g., Playfair Display, Fraunces, or DM Serif Display)
+                — communicates weight, trust, and nature
+  - Body:       Clean humanist sans
+                (e.g., Lora, Source Serif, or Literata)
+  - Labels/Tags: Mono font (e.g., JetBrains Mono) for data/metrics
+                 — signals precision
+
+Motion:
+  Subtle scroll-triggered reveals. Flow animations on the system diagram
+  (water flowing through pipes, leaves falling into composters).
+  No flashy gimmicks — deliberate and calm.
+
+Layout:
+  Asymmetric sections. Data callouts breaking into margins. One diagonal
+  divider between the problem and solution sections. The system diagram
+  should be wide, horizontal, and visual.
+
+Design DON'Ts:
+  - No white background with green accents (too generic eco-startup)
+  - No stock photo nature imagery
+  - No purple gradients
+  - No Inter / Roboto fonts
+  - No generic "leaf icon" logos
+  - No carousel sliders
+
+
+================================================================================
+SITE SECTIONS (IN ORDER)
+================================================================================
+
+------------------------------------------------------------------------
+1. HERO SECTION
+------------------------------------------------------------------------
+
+Headline (large):
+  "Urban waste is a resource problem disguised as a disposal problem."
+
+Subheadline:
+  "AliveCycle designs, deploys, and operates decentralized systems that turn
+  greywater and organic waste into water, nutrients, and measurable impact —
+  right where they're generated."
+
+CTA Button:
+  "Talk to Us About Your Site →"
+
+Background:
+  Dark, textured (noise grain overlay on deep green).
+  Subtle animated flow lines suggesting water movement.
+
+Visual Element:
+  A minimal animated cycle icon — water drop → leaf → soil → water drop —
+  looping softly in the corner.
+
+
+------------------------------------------------------------------------
+2. THE PROBLEM (WHY THIS EXISTS)
+------------------------------------------------------------------------
+
+Section Title: "The Gap No One Talks About"
+
+Layout: Two columns side by side.
+
+Left — Water Problem:
+  Greywater from bathrooms, laundry, and kitchens is low-contamination and
+  reusable — but it gets mixed with blackwater in municipal drains. That mixing
+  makes both streams harder and costlier to treat. Recoverable water is lost.
+  Freshwater extraction increases. Groundwater declines.
+
+Right — Waste Problem:
+  Organic food waste — kitchen leftovers, preparation scraps, mess waste — is
+  high in nutrients. But it's landfilled or left to rot, releasing methane and
+  leaching into soil. Those nutrients never return to the ecosystem.
+
+Callout Box (full width, amber accent):
+  "The result: excess freshwater extraction, declining groundwater, poor
+  sanitation, and lost nutrients — all from the same urban block, every
+  single day."
+
+
+------------------------------------------------------------------------
+3. THE ALIVECYCLE SYSTEM (CORE SECTION)
+------------------------------------------------------------------------
+
+Section Title: "One Loop. Two Recovery Streams."
+
+Visual Diagram (horizontal, animated or static SVG):
+
+  WATER STREAM (teal color coding):
+  [Greywater Source] → [Separation Pipeline] → [Local Treatment Unit]
+                                                        ↓
+                                                [Filtered Water]
+                                                        ↓
+                                        [Irrigation / Greenery / Recharge]
+
+  NUTRIENT STREAM (amber color coding):
+  [Organic Waste] → [Oil Separation] → [Biofuel]
+                          ↓
+                 [Remaining Matter] → [Bio-Compost / Fertilizer]
+                                              ↓
+                                  [Urban Greenery / Sold to Farmers]
+
+  Animate as a left-to-right flow with glowing nodes.
+  Label each stage. Color-code: teal for water stream, amber for
+  waste/nutrient stream.
+
+Feature Cards (below diagram):
+
+  💧 Water Recovery System
+     Greywater is diverted before mixing, treated locally using filtration
+     and biological processing, stored, and reused — for landscaping, urban
+     greenery, or groundwater recharge. No large infrastructure required.
+
+  🌱 Nutrient Recovery System
+     Organic waste is separated, oil is extracted for biofuel, and the
+     remaining matter is processed into bio-fertilizer. It goes back into
+     local soil — or is sold to peri-urban farmers.
+
+
+------------------------------------------------------------------------
+4. WHY ALIVECYCLE IS DIFFERENT
+------------------------------------------------------------------------
+
+Section Title: "We Don't Just Install. We Operate."
+
+Intro Paragraph:
+  Most sustainability systems fail not at installation — but at maintenance.
+  AliveCycle is a full-stack service provider. We design, deploy, operate,
+  maintain, train stakeholders, and track outcomes. We stay with the system.
+
+4 Feature Blocks (icon + title + short description):
+
+  ⚙️  Design & Deploy
+      Custom systems sized for your site — institution, ward, or society.
+
+  🔧  Operate & Maintain
+      Ongoing operations handled by our team. No burden on your staff.
+
+  📊  ESG Tracking
+      Measurable outcomes: water saved, waste reduced, groundwater supported.
+
+  🤝  Train & Handover
+      Local stakeholder training for long-term ownership.
+
+
+------------------------------------------------------------------------
+5. WHAT WE MEASURE (ESG / IMPACT SECTION)
+------------------------------------------------------------------------
+
+Section Title: "Infrastructure That Reports Itself"
+
+4 Large Metric Callouts (animated count-up on scroll):
+  - 💧  Litres of greywater recovered per day
+  - 🌱  Kg of bio-fertilizer produced per month
+  - 📉  % reduction in municipal load
+  - 🌍  Groundwater recharge contribution
+
+  (Values shown as placeholder dashes — or TBD for now, with note:
+  "Actual figures reported per site")
+
+Body Text:
+  Every AliveCycle deployment generates traceable ESG data — useful for
+  institutional compliance, government reporting, and sustainability
+  certifications.
+
+
+------------------------------------------------------------------------
+6. WHO WE WORK WITH
+------------------------------------------------------------------------
+
+Section Title: "Built for Those Who Manage Communities"
+
+4 Customer Type Cards (icon + label + 1-line description):
+
+  🏛️  Municipalities & Urban Bodies
+      Ward-level and city-scale greywater networks.
+
+  🏫  Educational Institutions
+      Hostels, messes, and campus greenery systems.
+
+  🏘️  Residential Societies
+      Apartment complexes and housing clusters.
+
+  🏗️  Government Bodies
+      Public infrastructure and civic sanitation projects.
+
+Closing Line (italic, centered):
+  "If you generate waste and water, AliveCycle turns them into assets."
+
+
+------------------------------------------------------------------------
+7. HOW IT WORKS — ENGAGEMENT FLOW
+------------------------------------------------------------------------
+
+Section Title: "From Site Visit to Running System"
+
+Numbered Steps (horizontal on desktop, vertical on mobile):
+
+  1. Site Assessment
+     We study your waste streams, infrastructure, and space.
+
+  2. System Design
+     Custom-sized greywater and organic waste solution.
+
+  3. Deployment
+     Installation with minimal disruption to existing systems.
+
+  4. Operations Handoff
+     Our team runs it; your team learns alongside.
+
+  5. Reporting
+     Monthly ESG impact data delivered to your stakeholders.
+
+
+------------------------------------------------------------------------
+8. CONTACT / CTA SECTION
+------------------------------------------------------------------------
+
+Section Title: "Ready to Close the Loop?"
+
+Body Text:
+  Whether you're a municipal planner, an institution administrator, or a
+  housing society committee — if you're ready to stop discarding recoverable
+  resources, we'd like to talk.
+
+Form Fields:
+  - Name
+  - Organization
+  - Role / Title
+  - Type of site (dropdown):
+      Municipality / Institution / Residential Society /
+      Government Body / Other
+  - Brief description of your site's needs (textarea)
+  - Email / Phone
+
+Submit CTA:       "Request a Site Assessment"
+Secondary CTA:    "Download our service overview →" (PDF, placeholder)
+
+
+------------------------------------------------------------------------
+9. FOOTER
+------------------------------------------------------------------------
+
+Logo + Tagline:   "Close the loop. Return what was taken."
+
+Links:            About | Services | ESG Outcomes | Contact
+
+Social:           Instagram handle @alivecycle (placeholder)
+
+Note:             AliveCycle is a decentralized environmental infrastructure
+                  service operating in India.
+
+
+================================================================================
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+Framework:
+  React (JSX) or plain HTML/CSS/JS — single file preferred for initial build.
+
+Fonts (load from Google Fonts):
+  - Fraunces      → display/headlines
+  - Lora          → body text
+  - JetBrains Mono → labels, data, metrics
+
+Animations:
+  - CSS scroll-triggered reveals (IntersectionObserver)
+  - Count-up animation on metrics section
+  - Subtle SVG flow animation on system diagram
+
+Responsive:
+  Mobile-first. All sections stack cleanly on small screens.
+
+Styling:
+  No external UI libraries. Custom CSS only, using CSS variables for theming.
+
+System Diagram:
+  SVG (inline or generated). Must visually show the two streams
+  (water + nutrient) as a connected loop with color-coded paths.
+
+
+================================================================================
+                        END OF PROMPT — ALIVECYCLE WEBSITE
+================================================================================
